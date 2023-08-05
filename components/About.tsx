@@ -35,20 +35,40 @@ export default function About({}: Props) {
                 <span className="underline decoration-[#89F819]/50">little</span> background
             </h4>
             <p className="text-base">
-                Thank you for visiting my first fully deployed website! 
-                <br />
-                <br />
+                Hi! My name is <span className="font-semibold">Jason</span> and welcome to my website.
                 
-                I&apos;m a FinTech Engineer and Data Analyst based in Los Angeles. I graduated from Babson College in 2021 with a B.S. in Business and Finance. I was initially drawn to the finance world because of cryptocurrencies and blockchain technology. And I have come to love the technology and the community behind it. I enjoy building trading bots, analyzing data, and thinking of ways to implement new technologies into the financial world. I am a creative at heart and would love to work with a team that is eager to bring positive changes to the world. 
-
-                <br />
-                <br />
-                Although I&apos;m not a web developer, I figured I&apos;d give it a shot at building my own. After all, how can I call myself a developer if I cant even build a simple website?
                 
                 <br />
                 <br />
+                I&apos;m a FinTech Engineer and Data Analyst based in Los Angeles. I graduated from Babson College in 2021 with a B.S. in Business and Finance. 
+                <br />
+                <br />
+                While I was working as a proprietary futures trader, I spent a good chunk of my time learning how to code and creating trading bots. It&apos;s been a really fun journey! 
+                <br />
+                The heart of coding is problem solving, and I have come to love the satisfaction that comes with solving difficult problems with my computer.
+                <br />
+                <br />
+                
+                Disclaimer: Although I&apos;m not a web developer, I figured I&apos;d give it a shot at building my own. After all, how can I call myself a developer if I can&apos;t even build a simple website?
+                <br />
+                <br />
+                <br />
+                
                 In my free time I like to play guitar, train Muay Thai and Jiu Jitsu, and cook perfect medium rare steaks. 
+                <br />
+                <br />
 
+                My favorite guitarists of all time: Steve Vai and John Petrucci
+
+                <br />
+
+                My favorite fighters of all time: Anderson Silva and Mirko Cro Cop
+
+                <br />
+                Go-to steak: Ribeye
+                <br />
+                <br />
+                Below you will find the technologies I am most familiar with. You can hover over each one to see my level of expertise.
                 
 
             </p>
