@@ -38,11 +38,11 @@ export default function About({}: Props) {
                 Thank you for visiting my first fully deployed website! 
                 <br />
                 <br />
-                Although I&apos;m not a web developer, I figured I&apos;d give it a shot at building my own. After all, how can I call myself a developer if I can't even build a simple website?
+                Although I&apos;m not a web developer, I figured I&apos;d give it a shot at building my own. After all, how can I call myself a developer if I cant even build a simple website?
                 
                 <br />
                 <br />
-                I think it turned out pretty good :)
+                I think it turned out pretty good :
 
                 <br />
                 <br />
