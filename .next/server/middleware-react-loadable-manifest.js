@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"../components/Header.tsx -> react-social-icons":{"id":"../components/Header.tsx -> react-social-icons","files":["static/chunks/node_modules_react-social-icons_build_react-social-icons_js.js"]}}
