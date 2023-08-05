@@ -15,7 +15,7 @@ const Home: NextPage = () => {
   return (
     <div className="bg-[rgb(36,36,36)] text-white h-screen snap-y snap-mandatory overflow-y-scrol overflow-x-hidden z-0 scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#89F819]/50">
       <Head>
-        <title>Jason's Portfolio</title>
+        <title>Jason&apos;s Portfolio</title>
       </Head>
 
       <Header />
