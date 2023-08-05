@@ -1,5 +1,5 @@
-import { motion } from 'framer-motion';
-import React from 'react'
+import { motion } from "framer-motion";
+import React from "react"
 type Props = {}
 
 export default function About({}: Props) {
@@ -31,14 +31,14 @@ export default function About({}: Props) {
 
         <div className="space-y-10 px-0 md:px-10">
             <h4 className="text-4xl font-semibold">
-                Here's a{" "}
+                Here&apos;s a{" "}
                 <span className="underline decoration-[#89F819]/50">little</span> background
             </h4>
             <p className="text-base">
-                Hi! I'm Jason Choi and thank you for visiting my website! 
+                Hi! I&apos;m Jason Choi and thank you for visiting my website! 
                 <br />
                 <br />
-                I'm a FinTech Engineer and Data Analyst based in Los Angeles. I graduated from Babson College in 2021 with a B.S. in Business and Finance. I was initially drawn to the finance world because of cryptocurrencies and blockchain technology. And I have come to love the technology and the community behind it. I enjoy building trading bots, analyzing data, and thinking of ways to implement new technologies into the financial world. I am a creative at heart and would love to work with a team that is eager to bring positive changes to the world. 
+                I&apos;m a FinTech Engineer and Data Analyst based in Los Angeles. I graduated from Babson College in 2021 with a B.S. in Business and Finance. I was initially drawn to the finance world because of cryptocurrencies and blockchain technology. And I have come to love the technology and the community behind it. I enjoy building trading bots, analyzing data, and thinking of ways to implement new technologies into the financial world. I am a creative at heart and would love to work with a team that is eager to bring positive changes to the world. 
 
                 <br />
 
