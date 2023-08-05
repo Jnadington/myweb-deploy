@@ -35,7 +35,18 @@ export default function About({}: Props) {
                 <span className="underline decoration-[#89F819]/50">little</span> background
             </h4>
             <p className="text-base">
-                Hi! I&apos;m Jason Choi and thank you for visiting my website! 
+                Thank you for visiting my first fully deployed website! 
+                <br />
+                <br />
+                Although I&apos;m not a web developer, I figured I&apos;d give it a shot at building my own. After all, how can I call myself a developer if I can't even build a simple website?
+                
+                <br />
+                <br />
+                I think it turned out pretty good :)
+
+                <br />
+                <br />
+                I am a big fan of the minimalist design and I wanted to create a website that is simple and easy to navigate. I hope you enjoy it!
                 <br />
                 <br />
                 I&apos;m a FinTech Engineer and Data Analyst based in Los Angeles. I graduated from Babson College in 2021 with a B.S. in Business and Finance. I was initially drawn to the finance world because of cryptocurrencies and blockchain technology. And I have come to love the technology and the community behind it. I enjoy building trading bots, analyzing data, and thinking of ways to implement new technologies into the financial world. I am a creative at heart and would love to work with a team that is eager to bring positive changes to the world. 
@@ -43,7 +54,7 @@ export default function About({}: Props) {
                 <br />
 
                 <br />
-                In my free time I like to play my guitar (my baby is the Ibanez PIA), train Muay Thai and Jiu Jitsu, and cook perfect medium rare steaks. 
+                In my free time I like to play guitar, train Muay Thai and Jiu Jitsu, and cook perfect medium rare steaks. 
 
                 
 
