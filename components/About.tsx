@@ -68,7 +68,7 @@ export default function About({}: Props) {
                 Go-to steak: Ribeye
                 <br />
                 <br />
-                Below you will find the technologies I am most familiar with. You can hover over each one to see my level of expertise.
+                Below you will see my professional experiences/projects and find the technologies I am familiar with. You may hover over each skill to see my level of expertise.
                 
 
             </p>
