@@ -25,7 +25,7 @@ export default function About({}: Props) {
             }}
             whileInView={{ opacity:1, x: 0 }}
             viewport={{ once: true}}
-            src="https://i.postimg.cc/yx3NVfv9/IMG-1585.jpg"
+            src="https://i.postimg.cc/0jjbdNx6/IMG-1176.jpg"
             className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"
         />
 
@@ -40,10 +40,12 @@ export default function About({}: Props) {
                 
                 <br />
                 <br />
-                I&apos;m an aspiring FinTech Engineer based in Los Angeles teaching Data-Stack with EdX Bootcamps. I graduated from Babson College in 2021 with a B.S. in Business and Finance. 
+                I&apos;m a FinTech Engineer based in San Diego teaching Data-Stack and FinTech with 2U (EdX) Bootcamps. I graduated from Babson College in 2021 with a B.S. in Business and Finance. Completed the FinTech Bootcamp at Pepperdine Graziadio in 2022.
                 <br />
                 <br />
-                While working as a proprietary futures trader, I was also enrolled in the FinTech Bootcamp at Pepperdine University. The skillsets I gained from these experiences have allowed me to develop a unique perspective on financial markets and the technology that drives them.
+                During my time as a futures trader at Topstep, I learned how to analyze financial data and build automated trading/analysis bots.
+                
+                I took these skills with me to edX where I am now teaching students how to build their own bots and analyze financial data.
                 <br />
 
                 {/* The heart of coding is problem solving, and I have come to love the satisfaction that comes with solving difficult problems with my computer.
@@ -68,7 +70,7 @@ export default function About({}: Props) {
                 Go-to steak: Ribeye */}
                 {/* <br />
                 <br /> */}
-                Scroll below to view my professional experiences,projects and the technologies I am familiar with! 
+                Scroll below to view my professional experiences, projects and the technologies I am familiar with! 
                 
 
             </p>
