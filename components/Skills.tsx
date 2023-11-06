@@ -14,6 +14,7 @@ import SkillR from './SkillR'
 import SkillVBA from './SkillVBA'
 import SkillPandas from './SkillPandas'
 import SkillAlteryx from './SkillAlteryx'
+import SkillMongoDB from './SkillMongoDB'
 
 type Props = {}
 
@@ -48,6 +49,7 @@ function Skills({}: Props) {
             <SkillTableau />
             <Skill />
             <SkillPandas />
+            <SkillMongoDB />
 
             {
             // <Skill2 />

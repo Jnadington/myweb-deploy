@@ -40,19 +40,19 @@ export default function About({}: Props) {
                 
                 <br />
                 <br />
-                I&apos;m a FinTech Engineer and Data Analyst based in Los Angeles. I graduated from Babson College in 2021 with a B.S. in Business and Finance. 
+                I&apos;m an aspiring FinTech Engineer based in Los Angeles teaching Data-Stack with EdX Bootcamps. I graduated from Babson College in 2021 with a B.S. in Business and Finance. 
                 <br />
                 <br />
-                While I was working as a proprietary futures trader, I spent a good chunk of my time learning how to code and creating trading bots. It&apos;s been a really fun journey! 
+                While working as a proprietary futures trader, I was also enrolled in the FinTech Bootcamp at Pepperdine University. The skillsets I gained from these experiences have allowed me to develop a unique perspective on financial markets and the technology that drives them.
                 <br />
-                The heart of coding is problem solving, and I have come to love the satisfaction that comes with solving difficult problems with my computer.
-                <br />
+
+                {/* The heart of coding is problem solving, and I have come to love the satisfaction that comes with solving difficult problems with my computer.
+                <br /> */}
                 <br />
                 
-                Disclaimer: Although I&apos;m not a web developer, I figured I&apos;d give it a shot at building my own. After all, how can I call myself a developer if I can&apos;t even build a simple website?
-                <br />
-                <br />
-                <br />
+                
+               
+                {/* <br />
                 
                 In my free time I like to play guitar, train Muay Thai and Jiu Jitsu, and cook perfect medium rare steaks. 
                 <br />
@@ -65,10 +65,10 @@ export default function About({}: Props) {
                 My favorite fighters of all time: Anderson Silva and Mirko Cro Cop
 
                 <br />
-                Go-to steak: Ribeye
-                <br />
-                <br />
-                Below you will see my professional experiences/projects and find the technologies I am familiar with. You may hover over each skill to see my level of expertise.
+                Go-to steak: Ribeye */}
+                {/* <br />
+                <br /> */}
+                Scroll below to view my professional experiences,projects and the technologies I am familiar with! 
                 
 
             </p>
