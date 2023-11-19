@@ -35,18 +35,16 @@ export default function About({}: Props) {
                 <span className="underline decoration-[#89F819]/50">little</span> background
             </h4>
             <p className="text-base">
-                Hi! My name is <span className="font-semibold">Jason</span> and welcome to my website.
+                Hi! My name is <span className="font-semibold">Jason</span> and I&apos;m a FinTech Engineer and Entrepreneur based in Los Angeles! 
+
+
                 
                 
                 <br />
                 <br />
-                I&apos;m a FinTech Engineer and Entrepreneur based in Los Angeles! 
+                Throughout my life I&apos;ve dabbled in many different fields but I always knew I wanted to be an entrepreneur. With the skills and connections that I&apos;ve gained, I am now pursuing my dream of starting my own business!
                 
-                <br />
-                <br />
-                During my time as a futures trader at Topstep, I learned how to analyze financial data and build automated trading/analysis bots.
                 
-                I took these skills with me to edX where I am now teaching students how to build their own bots and analyze financial data.
                 <br />
 
                 {/* The heart of coding is problem solving, and I have come to love the satisfaction that comes with solving difficult problems with my computer.
@@ -71,7 +69,9 @@ export default function About({}: Props) {
                 Go-to steak: Ribeye */}
                 {/* <br />
                 <br /> */}
-                Scroll below to view my professional experiences, projects and the technologies I am familiar with! 
+                But don&apos;t let that deter you from reaching out. I am always looking to collab! 
+                <br />
+
                 
 
             </p>

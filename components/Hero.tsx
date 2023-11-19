@@ -12,7 +12,7 @@ export default function Hero({}: Props) {
             "Hi, I'm Jason_Choi.json", 
             "Lover-of-mixed-martial-arts.txt",
             "ButLovesCodingMore == True",
-            "FinTech-Data.zip",
+            "Shredsguitar.zip",
             "github/Jnadington",
             
         ],
