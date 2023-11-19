@@ -40,7 +40,8 @@ export default function About({}: Props) {
                 
                 <br />
                 <br />
-                I&apos;m a FinTech Engineer based in San Diego teaching Data-Stack and FinTech with 2U (EdX) Bootcamps. I graduated from Babson College in 2021 with a B.S. in Business and Finance. Completed the FinTech Bootcamp at Pepperdine Graziadio in 2022.
+                I&apos;m a FinTech Engineer and Entrepreneur based in Los Angeles! 
+                
                 <br />
                 <br />
                 During my time as a futures trader at Topstep, I learned how to analyze financial data and build automated trading/analysis bots.

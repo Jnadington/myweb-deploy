@@ -50,15 +50,18 @@ export default function Header({}: Props) {
           bgColor='transparent'
         />}
         {SocialIcon && <SocialIcon 
-          url="https://www.hackerrank.com/kchoi2?hr_r=1" 
-          fgColor='gray'
-          bgColor='transparent'
-        />}
-        {SocialIcon && <SocialIcon 
           url="https://www.youtube.com/" 
           fgColor='gray'
           bgColor='transparent'
         />}
+        {SocialIcon && <SocialIcon 
+          url="https://www.amazon.com/stores/Luvage/page/ADE81E9D-76EA-45FA-B775-2F322CC83805?ref_=ast_bln" 
+          fgColor='gray'
+          bgColor='transparent'
+        />}
+
+
+
       </motion.div>
 
       

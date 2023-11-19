@@ -38,7 +38,7 @@ export default function ExperienceCard({}: Props) {
                     alt=""
                 />
             </div>
-            <p className="uppercase py-5 text-gray-300">Started: Nov 2017 - Ended: Sep 2020</p>
+            <p className="uppercase py-5 text-gray-300">Started: Jan 2022 - Ended: Jul 2022</p>
             <ul className="list-disc  space-y-4 ml-5 text-lg overflow-y-scroll h-25">
                 <li>Gained project experience in creating predictive models using Python, building decenralized identity systems using blockchain technologies, and applying machine learning algorithms to trading securities</li>
                 <li>Developed a trading bot using Python and the Alpaca API to automate trading strategies</li>
