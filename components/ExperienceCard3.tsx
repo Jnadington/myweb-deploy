@@ -42,7 +42,7 @@ export default function ExperienceCard({}: Props) {
             <ul className="list-disc  space-y-4 ml-5 text-lg overflow-y-scroll h-25">
                 <li>Designed and led warm-up exercises and drills, promoting a friendly, motivating environment</li>
                 <li>Facilitated gym closure during the pandemic and handled alterations in memberships</li>
-                <li>Represented Wai Kru in amateur bouts events</li>
+                <li>Represented Wai Kru in amateur bouts & events</li>
             </ul>
         </div>
 

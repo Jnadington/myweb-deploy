@@ -15,7 +15,7 @@ export default function ExperienceCard({}: Props) {
               whileInView={{ opacity: 1, y: 0}}
               viewport={{ once: true }}
               className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
-              src="https://s3-media0.fl.yelpcdn.com/bphoto/_3NEgPEhNr1QfS2-0omKlw/348s.jpg"
+              src="https://www.withlovela.com/wp-content/uploads/2019/07/pepperdine-graziadio-business-school-logo.jpg"
               alt="" />
 
         <div className="px-0 md:px-10">
