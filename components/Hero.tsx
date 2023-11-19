@@ -25,7 +25,11 @@ export default function Hero({}: Props) {
             <BackGroundCircles />
             <img 
                 className="relative rounded-full h-32 w-32 mx-auto object-cover"
-                src="https://i.postimg.cc/wMCQvmV4/profilepic1.jpg"
+
+                src="https://i.postimg.cc/HLhSb6DH/IMGwhite.png"
+                // src="https://i.postimg.cc/bNwzvvTn/profilepic111.png"
+
+                // src="https://i.postimg.cc/wMCQvmV4/profilepic1.jpg"
                 alt=""
             />
             <div className="z-20">

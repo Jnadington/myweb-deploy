@@ -38,11 +38,11 @@ export default function ExperienceCard({}: Props) {
                     alt=""
                 />
             </div>
-            <p className="uppercase py-5 text-gray-300">Started: Nov 2017 - Ended: Sep 2020</p>
+            <p className="uppercase py-5 text-gray-300">Started: May 2020 - Present </p>
             <ul className="list-disc  space-y-4 ml-5 text-lg overflow-y-scroll h-25">
-                <li>Designed and led warm-up exercises and drills, promoting a friendly, motivating environment</li>
-                <li>Facilitated gym closure during the pandemic and handled alterations in memberships</li>
-                <li>Represented Wai Kru in amateur bouts & events</li>
+                <li>Joined Luvage, a women's apparel brand, as a marketing contractor</li>
+                <li>Drove online sales, leading to best-seller on Amazon with 1200+ ratings: https://tinyurl.com/luvagelisting12</li>
+                <li>Utilizing targeted SEO strategies and optimizations</li>
             </ul>
         </div>
 
