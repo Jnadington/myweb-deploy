@@ -5,13 +5,13 @@ function Projects() {
     const projects = [
         {
             title: "Algo Trading Execution",
-            description: "Algo strategy execution with backtest displayed on line price chart with estimated returns. Allows user to adjust candlestick trade timeframe and TP/StopLoss for varying results.",
+            description: "Algo strategy execution with backtest displayed on line price chart with estimated returns. Allows user to adjust candlestick trade timeframe and TP/StopLoss for varying results. Click on the image above to view github repo: https://github.com/Jnadington/Algo-Trading-Project/tree/main",
             image: "https://i.postimg.cc/br0Tg5LS/algo-trade2.png",
             githubUrl: "https://github.com/Jnadington/Algo-Trading-Project/tree/main"
         },
         {
             title: "AWS RoboAdvisor",
-            description: "This is a CUI built on the AWS platform that helps users make investment decisions based on their risk tolerance and investment horizon.", 
+            description: "This is a CUI built on the AWS platform that helps users make investment decisions based on their risk tolerance and investment horizon. Dialogue trees are fully customizable.", 
             image: "https://i.postimg.cc/pLMvp550/Test-Bot-Lambda2.gif",
             githubUrl: "https://github.com/Jnadington/AWS-RoboAdvisor"
         }
@@ -50,7 +50,7 @@ function Projects() {
         <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-4xl font-semibold text-center">
                 <span className="underline decoration-[#89F819]/50">
-                    Case Study {i + 1} of {projects.length}:
+                    Project {i + 1} of {projects.length}:
                 </span>
                  {project.title}
             </h4>
