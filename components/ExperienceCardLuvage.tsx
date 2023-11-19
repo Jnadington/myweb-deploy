@@ -40,7 +40,7 @@ export default function ExperienceCard({}: Props) {
             </div>
             <p className="uppercase py-5 text-gray-300">Started: May 2020 - Present </p>
             <ul className="list-disc  space-y-4 ml-5 text-lg overflow-y-scroll h-25">
-                <li>Joined Luvage, a women's apparel brand, as a marketing contractor</li>
+                <li>Joined Luvage, a women&apos;s apparel brand, as a marketing contractor</li>
                 <li>Drove online sales, leading to best-seller on Amazon with 1200+ ratings: https://tinyurl.com/luvagelisting12</li>
                 <li>Utilizing targeted SEO strategies and optimizations</li>
             </ul>
