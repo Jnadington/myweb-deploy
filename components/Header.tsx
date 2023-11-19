@@ -44,11 +44,11 @@ export default function Header({}: Props) {
           fgColor='gray'
           bgColor='transparent'
         />}
-        {SocialIcon && <SocialIcon 
+        {/* {SocialIcon && <SocialIcon 
           url="https://medium.com/@jason.kh.choi" 
           fgColor='gray'
           bgColor='transparent'
-        />}
+        />} */}
         {SocialIcon && <SocialIcon 
           url="https://www.youtube.com/" 
           fgColor='gray'

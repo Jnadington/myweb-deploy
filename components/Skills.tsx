@@ -14,9 +14,10 @@ import SkillR from './SkillR'
 import SkillVBA from './SkillVBA'
 import SkillPandas from './SkillPandas'
 import SkillAlteryx from './SkillAlteryx'
-import SkillMongoDB from './SkillMongoDB'
+import SkillMongoDB from './SkillShopify'
 import SkillGoogle from './SkillGoogle'
 import SkillAmazon from './SkillAmazon'
+import SkillShopify from './SkillShopify'
 
 type Props = {}
 
@@ -42,17 +43,18 @@ function Skills({}: Props) {
             <SkillSQL />
             <SkillGoogle />
             <SkillAmazon />
+            <SkillShopify />
             <SkillAWS />
-            <SkillVBA />
             <SkillTensorflow />
             <SkillChatGPT />
+            <SkillVBA />
             <SkillSolidity />
             <SkillScikit />
             <SkillR />
             <SkillTableau />
             <Skill />
             <SkillPandas />
-            <SkillMongoDB />
+            
 
             {
             // <Skill2 />

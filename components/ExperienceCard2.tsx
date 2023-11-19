@@ -24,17 +24,17 @@ export default function ExperienceCard({}: Props) {
             <div className="flex space-x-2 my-2">
                 <img 
                     className="h-10 w-10 rounded-full" 
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf-BaRWOJtnIeynKgX8JkPHzHLeew9We3z1BjXUzbQbS9YmqG7RcbvT9EAFKpWn45j7M&usqp=CAU"
+                    src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"
                     alt=""
                 />
                 <img 
                     className="h-10 w-10 rounded-full" 
-                    src="https://static.thenounproject.com/png/643352-200.png"
+                    src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"
                     alt=""
                 />
                 <img 
                     className="h-10 w-10 rounded-full" 
-                    src="https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/512x512/shadow/boxing_gloves_red.png"
+                    src="https://user-images.githubusercontent.com/13250741/64669187-33b55380-d47e-11e9-8bbf-c02a9d42f9a7.png"
                     alt=""
                 />
             </div>

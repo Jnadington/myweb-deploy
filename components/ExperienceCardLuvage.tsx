@@ -24,17 +24,17 @@ export default function ExperienceCard({}: Props) {
             <div className="flex space-x-2 my-2">
                 <img 
                     className="h-10 w-10 rounded-full" 
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf-BaRWOJtnIeynKgX8JkPHzHLeew9We3z1BjXUzbQbS9YmqG7RcbvT9EAFKpWn45j7M&usqp=CAU"
+                    src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/95/c4/b395c43b-3b9b-df61-bb92-4df9c77f30e2/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png"
                     alt=""
                 />
                 <img 
                     className="h-10 w-10 rounded-full" 
-                    src="https://static.thenounproject.com/png/643352-200.png"
+                    src="https://mybrandjourney.com/wp-content/uploads/2020/02/google-analytics.png?x42868"
                     alt=""
                 />
                 <img 
                     className="h-10 w-10 rounded-full" 
-                    src="https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/512x512/shadow/boxing_gloves_red.png"
+                    src="https://www.freepnglogos.com/uploads/shopify-logo-png/ecommerce-shopify-logo-hd-1.png"
                     alt=""
                 />
             </div>
