@@ -15,7 +15,7 @@ function skill({ directionLeft }: Props) {
             }}
         transition={{ duration: 1 }}
         whileInView={{ opacity: 1, x: 0}}
-        src="https://d2vutrdw2j46fm.cloudfront.net/5e95d22e5aa8bf3a953eb9ae/public/5f6363b111fc7e2678545978.png"
+        src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/95/c4/b395c43b-3b9b-df61-bb92-4df9c77f30e2/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png"
         
         className="rounded-full border border-gray-500 object-cover w-24 h-24 xl:w-32 xl:h-32 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
