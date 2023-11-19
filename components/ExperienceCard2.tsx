@@ -40,9 +40,8 @@ export default function ExperienceCard({}: Props) {
             </div>
             <p className="uppercase py-5 text-gray-300">Started: Nov 2017 - Ended: Sep 2020</p>
             <ul className="list-disc  space-y-4 ml-5 text-lg overflow-y-scroll h-25">
-                <li>Designed and led warm-up exercises and drills, promoting a friendly, motivating environment</li>
-                <li>Facilitated gym closure during the pandemic and handled alterations in memberships</li>
-                <li>Represented Wai Kru in amateur bouts and events</li>
+                <li>Gained project experience in creating predictive models using Python, building decenralized identity systems using blockchain technologies, and applying machine learning algorithms to trading securities</li>
+                <li>Developed a trading bot using Python and the Alpaca API to automate trading strategies</li>
             </ul>
         </div>
 
