@@ -33,7 +33,7 @@ export default function Hero({}: Props) {
                 alt=""
             />
             <div className="z-20">
-                <h2 className="text-sm suppercase text-green-500 pb-2 tracking-[15px]"> FinTech Engineer
+                <h2 className="text-sm suppercase text-green-500 pb-2 tracking-[15px]"> FinTech | Entrepreneur
                 </h2>
                 <h1 className="text-5xl lg:text-6xl font-semibold px-10">
                     <span>{text}</span>

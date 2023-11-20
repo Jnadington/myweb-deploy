@@ -19,7 +19,7 @@ export default function ExperienceCard({}: Props) {
               alt="" />
 
         <div className="px-0 md:px-10">
-            <h4 className="text-4xl font-light">Learning Assistant @ 2U</h4>
+            <h4 className="text-4xl font-light">Instructional Specialist @ 2U</h4>
             <p className="font-bold text-2xl mt-1">2U Inc</p>
             <div className="flex space-x-2 my-2">
                 <img 
