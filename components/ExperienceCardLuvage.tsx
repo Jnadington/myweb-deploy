@@ -43,6 +43,8 @@ export default function ExperienceCard({}: Props) {
                 <li>Joined Luvage, a women&apos;s apparel brand founded in 2018, as a marketing contractor</li>
                 <li>Drove online sales, leading to best-seller on Amazon with 1200+ ratings: https://tinyurl.com/luvagelisting12</li>
                 <li>Utilizing targeted SEO strategies and optimizations</li>
+
+                <li> Currently spearheading the growth of the company's digital platforms </li>
             </ul>
         </div>
 

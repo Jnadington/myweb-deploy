@@ -40,10 +40,11 @@ export default function ExperienceCard({}: Props) {
             </div>
             <p className="uppercase py-5 text-gray-300">Started: Mar 2023 - Present</p>
             <ul className="list-disc  space-y-4 ml-5 text-lg overflow-y-scroll h-25">
-                <li>Assisted students as a teaching assistant in data bootcamps with a specialization in Data Analysis, Machine Learning, and FinTech</li>
+                <li>Assisting students through slack/zoom/discord in data bootcamps with a specialization in Data Analysis, Machine Learning, and FinTech</li>
 
-                <li>Delivered 24/7 support, answering queries related to assignments and relevant topics</li>
-                <li>One of the highest student ratings among starting recruits</li>
+                <li>Integral part of the 24/7 support of bootcamp students, answering queries related to assignments and relevant topics</li>
+
+                <li>One of the highest retention ratings amongst FinTech programs</li>
             </ul>
         </div>
 
