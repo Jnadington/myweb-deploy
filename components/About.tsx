@@ -25,7 +25,7 @@ export default function About({}: Props) {
             }}
             whileInView={{ opacity:1, x: 0 }}
             viewport={{ once: true}}
-            src="https://i.postimg.cc/8CNGqPjs/lulprofile.png"
+            src="https://i.postimg.cc/bNwzvvTn/profilepic111.png"
             // src="https://i.postimg.cc/0jjbdNx6/IMG-1176.jpg"
             className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"
         />
@@ -43,7 +43,7 @@ export default function About({}: Props) {
                 
                 <br />
                 <br />
-                Throughout my life I&apos;ve dived in various fields but I always knew I wanted to be an entrepreneur. With the skills and connections that I&apos;ve gained, I am now pursuing my dream of starting my own business!
+                Throughout my life I&apos;ve dabbled in many different fields but I always knew I wanted to be an entrepreneur. With the skills and connections that I&apos;ve gained, I am now pursuing my dream of starting my own business!
                 
                 
                 <br />
