@@ -15,7 +15,6 @@ export default function Hero({}: Props) {
             "shredsguitar.wav",
             "github/Jnadington",
             
-            
         ],
         loop: true,
         delaySpeed: 1950
