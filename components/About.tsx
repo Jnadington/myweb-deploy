@@ -43,7 +43,7 @@ export default function About({}: Props) {
                 
                 <br />
                 <br />
-                Throughout my life I&apos;ve dabbled in various fields but I always knew I wanted to be an entrepreneur. With the skills and connections that I&apos;ve gained, I am now pursuing my dream of starting my own business!
+                Throughout my life I&apos;ve dived in various fields but I always knew I wanted to be an entrepreneur. With the skills and connections that I&apos;ve gained, I am now pursuing my dream of starting my own business!
                 
                 
                 <br />
